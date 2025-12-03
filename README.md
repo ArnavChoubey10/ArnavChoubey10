@@ -10,7 +10,7 @@ I am **Arnav Choubey**, a Computer Science Engineering student at **VIT Bhopal**
 - 🤖 Currently learning **AI/ML fundamentals**  
 - 🛠️ Working on small projects to improve my skills  
 - 🎯 Goal: Become an **AI/ML Engineer**  
-- 📫 Reach me at: **arnavchoubey10@gmail.com**
+- 📫 Reach me at: **arnavchoubey@gmail.com**
 
 ---
 
