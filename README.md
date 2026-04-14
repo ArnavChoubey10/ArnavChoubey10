@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav Choubey</h1>
+<h1 align="center">Hi, I'm Arnav Choubey</h1>
 <h3 align="center">CSE Student @ VIT Bhopal | Python Developer | AI/ML</h3>
 
 ---
@@ -33,6 +33,7 @@ I am **Arnav Choubey**, a Computer Science Engineering student at **VIT Bhopal**
 - 🏠 **House Price Predictor**  
 - 📰 **Fake News Classifier**  
 - 📁 **File Organizer Tool**
+- ⚛️ **Particle in a Box Simulator**
 
 More new projects coming soon!
 
