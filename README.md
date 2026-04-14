@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Choubey</h1>
-<h3 align="center">CSE Student @ VIT Bhopal | Python Developer | Learning AI/ML</h3>
+<h3 align="center">CSE Student @ VIT Bhopal | Python Developer | AI/ML</h3>
 
 ---
 
